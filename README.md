@@ -1,5 +1,3 @@
-*Insight Workshop c# assignment of c# interface*
-
 This is a console application where the application will list the datas in console application from CSV or JSON file.
 
 
